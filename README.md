@@ -4,7 +4,7 @@ A simple program for encrypt files in sha256. The procedure is simple, you can l
 # Virtual Environment
 You can use a virtualenv for possible upgrade of the program. If I want to use some specific external APIs, you can set your virtualenv downloading them in the virtual environment to rest external from your operating system.
 <br>
-If you want go inside the virtual environment digit in the Terminal:<br><br>
+If you want use it, you need to go inside this current directory and digits as follow:<br><br>
 <code> virtualenv virtualenv </code><br><br>
 <code>source virtualenv/bin/activate</code>
 <br>
