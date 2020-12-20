@@ -4,5 +4,6 @@ A simple program for encrypt files in sha256. The procedure is simple, you can l
 # Usage
 This is an alternative execution from prompt or shell if you have troubleshooting with .py format<br>
 <br>
-<code> python3 core.py (root-directory) (--enc for encrypt and --list for list only) </code>
+<code> chmod +x cryptomator.sh </code><br><br>
+<code> ./cryptomator.sh (root-directory) (--enc for encrypt and --list for list only) </code>
 <br>
