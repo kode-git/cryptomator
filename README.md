@@ -1,8 +1,8 @@
 # Cryptomator
 A simple program for encrypt files in sha256. The procedure is simple, you can list or encrypt every file start from a /root (instance name) directory and the cryptomator navigates and search every file in every directory linked to /root (/root is included in the navigation and file checking.
 <br>
-# Virtual Environment
-You can use a virtualenv for possible upgrade of the program. If I want to use some specific external APIs, you can set your virtualenv downloading them in the virtual environment to rest external from your operating system.
+# Important Info
+The entire project is private and customized for code security revisioning. This repository is only to test some functions used there.
 <br>
 If you want use it, you need to go inside this current directory and digits as follow:<br><br>
 <code> virtualenv virtualenv </code><br><br>
