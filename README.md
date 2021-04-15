@@ -8,12 +8,6 @@ If you want use it, you need to go inside this current directory and digits as f
 <code> virtualenv virtualenv </code><br><br>
 <code>source virtualenv/bin/activate</code>
 <br>
-# Requirements
-You need the last version of Python 3.x, if you want to install it:<br><br>
-<b>GNU/Linux Distribution:</b><br><br>
-<code>sudo apt install python3</code><br><br>
-<b>MacOS Versions:</b><br><br>
-<code>sudo brew install python3</code><br>
 # Usage
 Going inside the src directory using cd, than digit in the Terminal:<br><br>
 <code>python3 core.py (root-directory) (-e for encrypt and -l for list only)</code><br>
